@@ -30,11 +30,10 @@
 
    ```bash
    npm install
-
- ```bash
    npm start
 
-打开浏览器并访问 http://localhost:3000 查看项目。
+
+**打开浏览器并访问 http://localhost:3000 查看项目。**
 
 
 
